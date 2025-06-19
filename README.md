@@ -33,6 +33,25 @@ Last but not least, MDN also features a vibrant contributor community, responsib
 
 [Generative AI for beginners with JavaScript](https://microsoft.github.io/generative-ai-with-javascript/). This course throws you into a time-traveling adventure—meet history’s legends with a fun twist, while learning Generative AI technologies.
 
+### Freecodecamp
+- [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/): This course provides a comprehensive pathway to becoming a Certified Full Stack Developer, covering all the essential technologies required to build modern, scalable web applications from start to finish. Through a blend of interactive lessons, coding exercises, and real-world projects, you will master both frontend and backend development. You'll work with HTML, CSS, and JavaScript to build responsive user interfaces, explore React and TypeScript for advanced web applications, and learn to manage data with relational databases - and on the backend, you'll use Git, Npm, Node.js, and Python to create powerful server-side solutions. By the end of this course, you'll have the practical skills and experience to confidently develop complete web applications, preparing you for a successful career as a Full Stack Developer. This certification will take you a substantial amount of time and effort to complete. If you start now, you may be ready to start the remaining material and final exam when we launch it in the coming months.
+- [Learn English for Developers - A2 English](https://www.freecodecamp.org/learn/a2-english-for-developers/): In this English for Developers Curriculum, you'll learn the essentials of English communication. This will follow the A2 level of the Common European Framework of Reference (CEFR). And we've focused on vocabulary that is particularly useful for developers. The first half of the curriculum will help you get comfortable with English grammar and usage. It will give you tons of hands-on practice. You'll learn basics like introducing yourself, making small talk, and discussing your work. In the second half, you'll practice vocabulary specific to software development. You'll learn how to describe code, discuss tech trends, and participate in stand-up meetings. This entire A2-level curriculum includes 105 different dialogues. Each is designed to build your vocabulary and boost your confidence when speaking in a professional tech setting.
+- [Learn English for Developers - B1 English](https://www.freecodecamp.org/learn/b1-english-for-developers/): In this English for Developers Curriculum, you'll learn the essentials of English communication. This will follow the B1 level of the Common European Framework of Reference (CEFR). And we've focused on vocabulary that is particularly useful for developers. It will help you strengthen your foundational skills while introducing more complex grammar and usage. You'll learn how to describe places and things, share past experiences, and confidently use tenses like Present Perfect and Future. Practical communication strategies are included as well, such as managing conversations, expressing opinions, and building agreement or disagreement in discussions. You'll also focus on applying these skills in professional and technical settings. You'll practice vocabulary and phrases essential for developers, such as describing code, participating in stand-up meetings, and discussing tech trends. Advanced topics include conditionals, comparative structures, and conversation management, so you can prepare for real-world interactions in the tech industry. This entire B1-level curriculum includes 73 different dialogues. Each is designed to build your vocabulary and boost your confidence when speaking in a professional tech setting.
+
+### The Odin Project
+[The Odin Project](https://www.theodinproject.com/) is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+
+### HTML & CSS for Absolute beginners by Kevin Powell
+[Learn to build websites from scratch](https://learn.kevinpowell.co/) - even if you've never written a line of code before.
+
+_**Course description**_
+This hands-on course teaches you the fundamentals of HTML and CSS, the building blocks of the web. You'll start with the basics and progress step-by-step to creating your own responsive websites.
+Perfect for complete beginners who want to start their web development journey.
+
+_**Learn the fundamentals of creating websites**_
+- _Over 60 lessons_
+- _Over 4.5 hours of video lessons across 64 videos_
+
 ## Content
 ### Module 1
 - Let's Make a Cake!
