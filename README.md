@@ -22,6 +22,8 @@ Last but not least, MDN also features a vibrant contributor community, responsib
 ## Content
 ### Module 1
 - Let's Make a Cake!
+  - [Live site](https://herminiotorres.github.io/scrimba-frontend-path/module-1/lets-make-a-cake/)
+  - [Source Code](https://github.com/herminiotorres/scrimba-frontend-path/tree/main/module-1/lets-make-a-cake)
 ### Module 2
 ### Module 3
 ### Module 4
