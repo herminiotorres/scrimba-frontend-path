@@ -19,6 +19,20 @@ The [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) provides a
 
 Last but not least, MDN also features a vibrant contributor community, responsible for helping to keep MDN maintained as well as thousands of pages of volunteer-contributed translations.
 
+### About Web.Dev
+[Web.Dev](https://web.dev/) want to help you build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users. This site is our home for content to help you on that journey, written by members of the Chrome team, and external experts who specialize in web development topics such as accessibility, performance, design, and more.
+
+#### Learn web development
+- [Learn](https://web.dev/learn)
+  - Learn web development: Explore our growing collection of courses on key web design and development subjects. An industry expert has written each course, helped by members of the Chrome team. Follow the modules sequentially, or dip into the topics you most want to learn about.
+- [Explore](https://web.dev/explore)
+  - Explore: Explore our structured learning paths to discover everything you need to know about building for the web.
+
+### Web Development for Beginners - A Curriculum
+[The Curriculum](https://microsoft.github.io/Web-Dev-For-Beginners/), it will learn the fundamentals of web development with our 12-week comprehensive course by Microsoft Cloud Advocates. Each of the 24 lessons dives into JavaScript, CSS, and HTML through hands-on projects like terrariums, browser extensions, and space games. Engage with quizzes, discussions, and practical assignments. Enhance your skills and optimize your knowledge retention with our effective project-based pedagogy. Start your coding journey today!
+
+[Generative AI for beginners with JavaScript](https://microsoft.github.io/generative-ai-with-javascript/). This course throws you into a time-traveling adventure—meet history’s legends with a fun twist, while learning Generative AI technologies.
+
 ## Content
 ### Module 1
 - Let's Make a Cake!
